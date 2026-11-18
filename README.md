@@ -134,7 +134,3 @@ Each algorithm module exposes a `run_*` function that takes the process list and
 - Priority scheduling is not included.
 - Context-switch overhead is not simulated.
 
-## Author
-
-- **Jane Rosales**: [GitHub](https://github.com/janerosales07)
-- **Baby Jane Delen**: [GitHub](https://github.com/25-06461-ux)
